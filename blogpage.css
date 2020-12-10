@@ -188,6 +188,40 @@ html {
   font-size: 13px;
   text-decoration: none;
 }
+#myList li {
+  display: none;
+}
+#loadMore {
+  cursor: pointer;
+}
+#loadMore:hover {
+  color: black;
+  border: 1px solid #000;
+}
+#showLess {
+  cursor: pointer;
+}
+#showLess:hover {
+  color: black;
+}
+ul {
+  list-style-type: none;
+}
+li {
+  list-style-type: none;
+}
+.load {
+  width: 200px;
+  background-color: rgb(255, 188, 88);
+  color: #fff;
+  border-radius: 100px;
+  text-align: center;
+  font-size: 15px;
+  font-weight: bold;
+  text-decoration: none;
+  padding: 15px 60px;
+  margin: 40px 20px 20px 20px !important;
+}
 /*---------------------------blog first page End---------------------------------------------*/
 /*---------------------------last part start---------------------------------------------*/
 .fa-handshake,
