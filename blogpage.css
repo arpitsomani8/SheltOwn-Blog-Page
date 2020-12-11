@@ -52,6 +52,12 @@ html {
   .navbar-brand {
     padding-left: 0 !important;
   }
+  .rephead {
+    font-size: 15px;
+  }
+  .repdate {
+    font-size: 12px;
+  }
   /*
   .navbar-brand {
     font-size: 18px;
@@ -230,6 +236,7 @@ li {
   font-weight: bold;
   margin-right: 9px;
 }
+
 /*---------------------------last part start---------------------------------------------*/
 .fa-handshake,
 .fa-user-shield,
