@@ -116,9 +116,9 @@ html {
 .all {
   color: rgb(117, 117, 117);
   background-color: rgb(242, 242, 242);
-  font-weight: bolder;
-  padding: 5px 20px;
-  margin: 10px;
+  font-weight: bold;
+  padding: 5px 15px;
+  margin: 8px;
   border: 1px solid rgb(84, 253, 197);
   border-radius: 20px;
   text-decoration: none;
