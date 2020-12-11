@@ -58,6 +58,19 @@ html {
   .repdate {
     font-size: 12px;
   }
+  .all {
+    color: rgb(117, 117, 117);
+    background-color: rgb(242, 242, 242);
+    font-weight: bold;
+    padding: 3px 8px;
+    font-size: 13px !important;
+    margin: 4px;
+    border: 1px solid rgb(84, 253, 197);
+    border-radius: 20px;
+    text-decoration: none;
+    outline: none;
+    cursor: pointer;
+  }
   /*
   .navbar-brand {
     font-size: 18px;
@@ -236,7 +249,6 @@ li {
   font-weight: bold;
   margin-right: 9px;
 }
-
 /*---------------------------last part start---------------------------------------------*/
 .fa-handshake,
 .fa-user-shield,
