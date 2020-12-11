@@ -231,7 +231,7 @@ li {
   list-style-type: none;
 }
 .load {
-  width: 200px;
+  width: 180px;
   background-color: rgb(255, 188, 88);
   color: #fff;
   border-radius: 100px;
@@ -239,7 +239,7 @@ li {
   font-size: 15px;
   font-weight: bold;
   text-decoration: none;
-  padding: 15px 60px;
+  padding: 12px 30px;
   margin: 40px 20px 20px 20px !important;
 }
 /*---------------------------blog first page End---------------------------------------------*/
