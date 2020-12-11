@@ -223,6 +223,13 @@ li {
   margin: 40px 20px 20px 20px !important;
 }
 /*---------------------------blog first page End---------------------------------------------*/
+.blog_text p:first-letter {
+  float: left;
+  font-size: 100px;
+  line-height: 1;
+  font-weight: bold;
+  margin-right: 9px;
+}
 /*---------------------------last part start---------------------------------------------*/
 .fa-handshake,
 .fa-user-shield,
